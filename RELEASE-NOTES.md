@@ -1,5 +1,35 @@
 # Release Notes for SPDX License List
 
+## version 3.29.0 - 2026-09-16
+
+New licenses/exceptions added: 15
+
+1. atc-game
+2. Brian-Gladman-3-Clause-no-conversion
+3. BSD-2-Clause-pos-unchanged
+4. BSD-3-Clause-OpenWebUI
+5. BSD-ask-to-endorse
+6. BSD-Source-alt-GPL
+7. BSD-Source-Code-no-disclaimer
+8. Bugroff
+9. CC-BY-NC-3.0-IGO
+10. FDK-MPEG-H
+11. Google-Patent-WebM
+12. Hippocratic-3.0-core
+13. Informatica
+14. MVT-1.1
+15. Spelling-Provider-LGPL-exception
+
+Updated links to OSI webpages for OSI-approved licenses.
+
+Added and improved other markup for several licenses.
+
+Update to documentation regarding XML fields.
+
+See all PRs for 3.29.0 here: https://github.com/spdx/license-list-XML/pulls?page=1&q=is%3Apr+milestone%3A%223.29.0%22+is%3Aclosed
+
+See comparison of changes from 3.28.0 to 3.29.0: https://github.com/spdx/license-list-XML/compare/v3.28.0...v3.29.0
+
 ## version 3.28.0 - 2026-02-20
 
 New licenses/exceptions added: 33
